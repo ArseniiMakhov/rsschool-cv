@@ -1,11 +1,11 @@
 [rsschool-cv](https://rs.school/)
 
-__________
+
 ## ***Arsenii Makhov***
 
-________________
+
 ## My contacts:
----------
+
 **Phone:** +375-33-377-66-56
 
 **E-mail:** arseniimakhov@list.com
@@ -15,7 +15,7 @@ ________________
 **Telegram:** +375-33-377-66-56
 
 ## About me:
-_______________
+
 I am 23 years old. I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
 
 * My strengths:
@@ -25,7 +25,7 @@ I am 23 years old. I really need in activities where I can develop during my lif
     * Leader
 
 ## Skills:
-___________
+
 
 * HTML
 * CSS
@@ -33,7 +33,7 @@ ___________
 * Git/GitHub (in process...)
 
 ## Code examle: 
-___________
+
 
 ```
 function binarySearch(value, list) {
@@ -58,7 +58,7 @@ function binarySearch(value, list) {
 }
 ```
 ## Education:
-_______
+
 * Polotsk State University
     * Сhemical production machines and apparatuses
 * It-academy
@@ -67,7 +67,7 @@ _______
     * Stage#0 (in process...)
 
 ## Languages:
-________
+
 * **Russian** - native speaker
 * **English** - A2
 
