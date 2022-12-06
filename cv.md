@@ -71,8 +71,3 @@ function binarySearch(value, list) {
 * **Russian** - native speaker
 * **English** - A2
 
-
-
-
-
-
