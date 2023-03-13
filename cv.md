@@ -23,3 +23,39 @@ I am 23 years old. I really need in activities where I can develop during my lif
 * Git/GitHub
 * SASS/SCSS
 * React(in process...)
+
+## Code examle: 
+```
+function binarySearch(value, list) {
+    let first = 0;    //left endpoint
+    let last = list.length - 1;   //right endpoint
+    let position = -1;
+    let found = false;
+    let middle;
+ 
+    while (found === false && first <= last) {
+        middle = Math.floor((first + last)/2);
+        if (list[middle] == value) {
+            found = true;
+            position = middle;
+        } else if (list[middle] > value) {  //if in lower half
+            last = middle - 1;
+        } else {  //in in upper half
+            first = middle + 1;
+        }
+    }
+    return position;
+}
+```
+## Education:
+---
+* Polotsk State University
+    * Сhemical production machines and apparatuses
+* It-academy
+    * Basic HTML/CSS/JS
+* Rsschool
+    * Stage#1 (in process...)
+## Languages:
+---
+* **Russian** - native speaker
+* **English** - A2-B1
