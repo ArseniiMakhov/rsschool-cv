@@ -2,9 +2,13 @@
 ## My contacts:
 ---
 **Phone:** +375-33-377-66-56
+
 **E-mail:** arseniimakhov@gmail.com
+
 **Git-Hub:** https://github.com/ArseniiMakhov
+
 **Telegram:** @Arsen_Sanbl4
+
 **Linkedin:** https://www.linkedin.com/in/arsenii-makhov-884287265/
 ## About me:
 ---
@@ -55,6 +59,7 @@ function binarySearch(value, list) {
     * Basic HTML/CSS/JS
 * Rsschool
     * Stage#1 (in process...)
+
 ## Languages:
 ---
 * **Russian** - native speaker
