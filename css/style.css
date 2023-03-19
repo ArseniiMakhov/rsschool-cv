@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+}
+
+p {
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+
+.person {
+    display: flex;
+}
+
+.side-left {
+    z-index: 10;
+    box-shadow: 3px 0px 15px 0px #000000;
+    width: 40%;
+    background-color: #2D4059;
+    color: #fff;
+}
+
+.side-right {
+    width: 60%;
+    background-color: #fff;
+    color: #2D4059;
+}
+
+.person__img {
+    width: 50%;
+    margin: 30px auto;
+}
+
+.person__img img {
+    width: 100%;
+    border-radius: 50%;
+    border: 10px solid #EA5455;
+}
+
+.article__title {
+    border-radius: 20px;
+    width: 95%;
+    margin: 0 auto;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    background-color: #EA5455;
+}
+
+.article__item {
+    padding: 10px 50px;
+}
+
+.article__subtitle {
+    margin-bottom: 5px;
+}
+
+.list {
+    margin-left: 15px;
+    list-style-type: "\2713  ";
+}
+
+.list__item:not(:last-child) {
+    margin-bottom: 3px;
+}
+
+.languages .article__item:first-of-type {
+    padding-bottom: 0;
+}
+
+.person__title {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    padding: 40px 0 10px 0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 1.75em;
+}
+
+.person__prof {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.list.works {
+    list-style-type: disc;
+}
+
+.list.educations {
+    list-style-type: circle;
+}
+
+.side-right .article {
+    margin-bottom: 30px;
+}
+
+.hobbies__list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hobbies__item {
+    width: 30%;
+}
+
+.hobbies__title {
+    text-align: center;
+}
+
+.hobbies__img {
+    width: 50px;
+    padding-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
