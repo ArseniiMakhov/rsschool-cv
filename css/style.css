@@ -26,11 +26,34 @@ body {
 
 .person__img {
     width: 50%;
-    margin: 20px auto;
+    margin: 30px auto;
 }
 
 .person__img img {
     width: 100%;
     border-radius: 50%;
     border: 10px solid #EA5455;
+}
+
+.article__title {
+    display: block;
+    padding: 10px;
+    background-color: #EA5455;
+}
+
+.article__item {
+    padding: 15px;
+}
+
+.article__subtitle {
+    margin-bottom: 5px;
+}
+
+.skills__list {
+    margin-left: 15px;
+    list-style-type: "\2713  ";
+}
+
+.skills__item:not(:last-child) {
+    margin-bottom: 3px;
 }
