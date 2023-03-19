@@ -3,3 +3,34 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.person {
+    display: flex;
+}
+
+.side-left {
+    width: 40%;
+    background-color: #2D4059;
+    color: #fff;
+}
+
+.side-right {
+    width: 60%;
+    background-color: #fff;
+    color: #2D4059;
+}
+
+.person__img {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.person__img img {
+    width: 100%;
+    border-radius: 50%;
+    border: 10px solid #EA5455;
+}
