@@ -23,7 +23,7 @@ body {
 
 .side-left {
     z-index: 10;
-    box-shadow: 3px 0px 15px 0px #000000;;
+    box-shadow: 3px 0px 15px 0px #000000;
     width: 40%;
     background-color: #2D4059;
     color: #fff;
